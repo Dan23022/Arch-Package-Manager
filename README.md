@@ -13,7 +13,7 @@ Built with [Flet](https://flet.dev), it provides a simple tabbed interface for m
   - Uninstall search updates results as you type.
   - Install search updates results **only after pressing Enter** in the search box.
 - **Sudo support**: enter your password once to perform system-level operations.
-- **Flatpak support**: correctly handles application IDs (e.g. `org.blender.Blender`) instead of just names.
+- **Flatpak support**
 
 ---
 
